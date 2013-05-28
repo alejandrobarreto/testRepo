@@ -1,12 +1,7 @@
+<!DOCTYPE>
 <html>
-
-
-
-
-
-
-
-
-
-
+<head></head>
+<body
+HTML body
+</body>
 </html>
